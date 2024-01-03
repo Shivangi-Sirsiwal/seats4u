@@ -1,5 +1,11 @@
 # seats4u
 
+## Project Overview
+seats4u is a ticketing platform that serves three different user groups: consumers, administrators (admin), and venue managers (VM).
+
+#### Consumer Functionality
+Consumers are able to search all shows available on seats4u, with options to filter by venue, date, time, or search by partial name.
+
 Landing Page:
 <br>
 <image src="https://github.com/Shivangi-Sirsiwal/seats4u/assets/152037538/ce2cb354-6742-4e2f-9d79-40668a1d4b6d" width="600">
