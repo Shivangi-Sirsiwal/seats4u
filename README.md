@@ -3,8 +3,11 @@
 ## Project Overview
 seats4u is a ticketing platform that serves three different user groups: consumers, administrators (admin), and venue managers (VM).
 
-## Consumer Functionality
-Consumers are able to search all shows available on seats4u, with options to filter by venue, date, time, or search by partial name.
+### Consumer Functionality
+* View all shows available on seats4u, with options to filter by venue, date, or time.
+* Search for shows by partial name
+* Select a show and view all seats available for that show
+* Select and purchase any number of seats at a time
 
 Landing Page:
 <br>
