@@ -6,7 +6,7 @@ Landing Page:
 
 Consumer Page:
 <br>
-<image src="https://github.com/Shivangi-Sirsiwal/seats4u/assets/152037538/c5457d2e-792b-4b6b-9fe6-94fe7683a9d7" width="800">
+<image src="https://github.com/Shivangi-Sirsiwal/seats4u/assets/152037538/c5457d2e-792b-4b6b-9fe6-94fe7683a9d7" width="850">
 
 Admin Page:
 <br>
