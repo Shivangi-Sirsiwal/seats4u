@@ -51,3 +51,7 @@ Admin Page:
 VM Page:
 <br>
 <image src="https://github.com/Shivangi-Sirsiwal/seats4u/assets/152037538/c9f0e232-1e7a-4f6b-bea5-dd58096a07b3" width="600">
+
+## Further Notes
+
+*This code was created for the Final Project Assignment in the WPI course CS3733 Software Engineering as taught by Professor George Heineman in B Term of the 2023 school year. This code was created by Shivangi Sirsiwal, Filippo Marcantoni, Samuel Appiah Kubi, and Ian Grzembski.*
