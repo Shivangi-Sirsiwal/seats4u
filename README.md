@@ -22,12 +22,19 @@ seats4u is a ticketing platform that serves three different user groups: consume
 * Create venues linked to a VM access key
   * Customize left, right, and center section dimensions
 * Delete venues
-* Create shows at their venues
+* Create shows at their venues that do not clash with any existing shows at that venue
   * Set show name, date, and time
   * Determine which pricing structure to use: single price or block structure
     * If using a single price structure, set the ticket price
     * If using a block structure, create and customize block dimensions, locations, and prices, as well as delete blocks
     * Switch pricing structure
+* Delete shows
+* Activate shows that meet activation criteria (all seats at the venue have a price, show has a name, price, date and time)
+  * Once a show is active, show customization functionality is no longer available
+* Generate show reports for shows at any venue linked to their access key
+* Deactivate shows who's start time has passed
+
+## UI Photos
 
 Landing Page:
 <br>
